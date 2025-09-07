@@ -22,17 +22,17 @@ This repository contains lab tasks and solutions for the Computer Organization a
 
 ---
 
-## Lab 02: Basic Assembly Language Concepts
+## Lab 02:
 *Coming soon...*
 
 ---
 
-## Lab 03: Data Representation and Manipulation
+## Lab 03:
 *Coming soon...*
 
 ---
 
-## Lab 04: Control Structures and Loops
+## Lab 04:
 *Coming soon...*
 
 ---
